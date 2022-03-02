@@ -1,0 +1,7 @@
+<html>
+<frameset cols="25%,50 %,25%">
+  <frame sre="frame_a.html">
+  <frame sre="frame_b.html">
+  <frame sre="frame_c.html">
+</frameset>
+</html>
